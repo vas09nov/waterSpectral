@@ -1,1 +1,1 @@
-# waterSpectral
+# wetlandSpectralGEE
